@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiscalBookingReport", "FiscalBookingReport\FiscalBookingReport.csproj", "{2401F5E8-32E7-4C74-9423-04EE21679A4A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8B6A45C4-AF4D-4C76-A934-D1E336EA0D1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2401F5E8-32E7-4C74-9423-04EE21679A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2401F5E8-32E7-4C74-9423-04EE21679A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2401F5E8-32E7-4C74-9423-04EE21679A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2401F5E8-32E7-4C74-9423-04EE21679A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://usp-customapps:8080/tfs/misccollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = FiscalBookingReport\\FiscalBookingReport.csproj
+		SccProjectName1 = FiscalBookingReport
+		SccLocalPath1 = FiscalBookingReport
+	EndGlobalSection
+EndGlobal
